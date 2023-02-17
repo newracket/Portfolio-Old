@@ -47,7 +47,7 @@ export default function Skills() {
               <img
                 src={`assets/languages/${icon.name.toLowerCase()}.png`}
                 alt={`${icon} Icon`}
-                className="max-h-xss rounded-lg"
+                className="max-h-28 rounded-lg"
               />
             </a>
           );
@@ -61,7 +61,7 @@ export default function Skills() {
               <img
                 src={`assets/libraries/${icon.name.toLowerCase()}.png`}
                 alt={`${icon} Icon`}
-                className="max-h-xss rounded-lg"
+                className="max-h-28 rounded-lg"
               />
             </a>
           );

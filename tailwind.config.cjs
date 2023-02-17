@@ -6,9 +6,6 @@ module.exports = {
     extend: {
       fontFamily: {
         inter: ["inter", "serif"],
-      },
-      maxHeight: {
-        "xss": "7rem",
       }
     },
   },
