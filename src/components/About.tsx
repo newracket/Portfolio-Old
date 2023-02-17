@@ -6,7 +6,8 @@ export default function About() {
 
       <div className="flex items-center justify-center flex-row text-center">
         <img
-          src="public/assets/UCSD-ID-Picture.jpg"
+          src="assets/UCSD-ID-Picture.jpg"
+          alt="Portrait Picture"
           className="border-2 border-stone-500 max-w-lg"
         />
         {/*<div*/}
