@@ -24,6 +24,7 @@ export default function Skills() {
   const libraries = [
     { name: "React", link: "https://reactjs.org/" },
     { name: "Express", link: "https://expressjs.com/" },
+    { name: "Electron", link: "https://www.electronjs.org/" },
     { name: "Flask", link: "https://flask.palletsprojects.com/" },
     { name: "Numpy", link: "https://numpy.org/" },
     { name: "Pandas", link: "https://pandas.pydata.org/" },
