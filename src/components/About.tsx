@@ -17,10 +17,17 @@ export default function About() {
         <div className="flex flex-col ml-12">
           <p className="text-base font-semibold max-w-md">
             Hello! I'm currently a student at the University of California-San
-            Diego, and am working on a Bachelors in Computer Science. After
-            obtaining my degree, I hope to pursue the field of software
-            development. My three main languages are Python, JavaScript, and
-            Java.
+            Diego, working on a Bachelors in Computer Science. My interests
+            revolve around the field of software engineering, with my area of
+            expertise being web development. I've recently started to get into
+            the field of AI, utilizing the programming language python.
+          </p>
+          <br />
+          <p className="text-base font-semibold max-w-md">
+            You can view my projects and skills down below. My socials are
+            linked at the bottom of the page. Feel free to contact me if you
+            have any employment opportunities, want to work together on a
+            project, or just want to chat!
           </p>
         </div>
       </div>

@@ -12,6 +12,7 @@ export default function ProjectsList() {
             description={projectData.description}
             link={projectData.link}
             skills={projectData.skills}
+            image={projectData.image}
             key={i}
           />
         ))}

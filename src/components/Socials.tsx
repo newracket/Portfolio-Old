@@ -1,15 +1,7 @@
 import React from "react";
+import { socials } from "../data/socialsData";
 
 export default function Socials() {
-  const socials = [
-    { name: "Github", link: "https://github.com/newracket" },
-    {
-      name: "LinkedIn",
-      link: "https://www.linkedin.com/in/aniket-gupta-50733a24b/",
-    },
-    { name: "Instagram", link: "https://www.instagram.com/aniket.gupta01/" },
-    { name: "Email", link: "mailto:aniket.9upt@gmail.com" },
-  ];
   // Resume
 
   return (
@@ -25,7 +17,7 @@ export default function Socials() {
               <img
                 src={`assets/socials/${icon.name.toLowerCase()}.png`}
                 alt={`${icon} Icon`}
-                className="max-h-20 rounded-lg"
+                className="max-h-14 rounded-lg"
               />
             </a>
           );
