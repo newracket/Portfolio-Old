@@ -2,7 +2,7 @@ export default function About() {
   return (
     <div className="text-center pt-20 pb-6">
       <h1 className="text-7xl mb-3 font-bold">Aniket Gupta</h1>
-      <p className="text-2xl mb-10">Fullstack Software Developer</p>
+      <p className="text-2xl mb-10">Fullstack Software Engineer</p>
 
       <div className="flex items-center justify-center flex-row text-center">
         <img
