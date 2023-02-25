@@ -49,4 +49,12 @@ export default [
     skills: ["HTML/CSS", "Javascript", "Flask", "Sqlite3"],
     image: "wordle.png",
   },
+  {
+    title: "UCSD Courses Scraper",
+    description:
+      "Used python and selenium to scrape a list of all the courses from UCSD, along with the data for all the courses.",
+    link: "https://github.com/newracket/Classes_Scraper",
+    skills: ["Python", "Selenium"],
+    image: "classes_scraper.png",
+  },
 ] as ProjectType[];
