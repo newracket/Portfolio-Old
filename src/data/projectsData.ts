@@ -57,4 +57,12 @@ export default [
     skills: ["Python", "Selenium"],
     image: "classes_scraper.png",
   },
+  {
+    title: "Google Classroom Reminders App",
+    description:
+      "Used NodeJS and ElectronJS to create a desktop app with an interface to create reminders for Google Classroom assignments.",
+    link: "https://github.com/newracket/Google-Classroom-Reminders-App",
+    skills: ["NodeJS", "ElectronJS", "HTML/CSS"],
+    image: "gc_reminders.png",
+  },
 ] as ProjectType[];
