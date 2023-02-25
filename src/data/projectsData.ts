@@ -39,7 +39,7 @@ export default [
       "PDF merger made using JavaScript and React to merge PDFs. Allows any number of PDFs, and allows for rearranging PDF pages.",
     link: "https://github.com/newracket/pdf-editor",
     skills: ["NodeJS", "React", "PDFLib"],
-    image: "coming_soon.png",
+    image: "pdf_merger.png",
   },
   {
     title: "Wordle",
