@@ -21,7 +21,7 @@ export default [
     title: "Countryside Mapper",
     description:
       "Agritourism website made using Typescript and React to display agricultural events. Made in 48 hour hackathon-Garuda Hacks. Won runner-up with this project.",
-    link: "https://github.com/newracket/Garuda-Hacks",
+    link: "https://github.com/newracket/Countryside-Mapper",
     skills: ["Typescript", "React", "Firebase"],
     image: "countryside_mapper.png",
   },

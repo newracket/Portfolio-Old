@@ -3,6 +3,7 @@ const languages = [
   { name: "Typescript", link: "https://www.typescriptlang.org/" },
   { name: "NodeJS", link: "https://nodejs.org/" },
   { name: "Java", link: "https://www.java.com/" },
+  { name: "Python", link: "https://www.python.org/" },
   {
     name: "HTML5",
     link: "https://developer.mozilla.org/en-US/docs/Web/HTML",
